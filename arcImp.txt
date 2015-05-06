@@ -1,1 +1,2 @@
 Estamos viendo subirlo al respositorio remote
+ahora estamos viendo si volvemos hacer commit se actualiza
