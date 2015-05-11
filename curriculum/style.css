@@ -1,0 +1,73 @@
+html{
+	width: 75%;
+	margin: 0 auto;
+	font-size: 26px;
+	
+}
+
+#cabezera{
+	padding: 0px;
+	background-color: #015581;
+	height: 50px;
+	overflow: auto;
+}
+
+section{
+	padding: 0px;
+	overflow: auto;
+}
+
+
+.box{
+	font-family: 'Ubuntu', sans-serif;
+	width: 25%;
+	background-color: #fff;
+	float: left;
+	box-sizing: border-box;
+	padding: 20px;
+}
+
+.box2{
+	font-family: 'Ubuntu', sans-serif;
+	width: 70%;
+	background-color: #fff;
+	float: right;
+	box-sizing: border-box;
+	padding: 60px;
+}
+
+
+
+h1{
+	text-align: center;
+	color: white;
+	margin: 0px;
+}
+
+img{
+	max-width: 100%
+
+}
+
+hr{
+	border: 3px solid #BFBFBF; 
+	border-radius: 300px/10px; 
+	height: 0px; 
+	text-align: center;
+}
+
+span{
+	font-weight: bold;
+}
+
+body{
+	margin: 0;
+}
+
+
+
+
+
+
+
+
